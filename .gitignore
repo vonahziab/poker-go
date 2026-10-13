@@ -1,0 +1,14 @@
+# Сборка
+bin/
+
+# Тесты и профилирование
+*.test
+*.out
+*.prof
+
+# macOS
+.DS_Store
+
+# Редакторы
+.idea/
+.vscode/
